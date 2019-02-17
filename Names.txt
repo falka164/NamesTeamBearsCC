@@ -1,5 +1,5 @@
-Dodaj swoje imię do listy, nie usuwając pozostałych.
-1.
+﻿Dodaj swoje imię do listy, nie usuwając pozostałych.
+1. Marcin / https://github.com/MarcinCzajka/
 2.
 3.
 4.
